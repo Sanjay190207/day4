@@ -81,7 +81,7 @@ export default function RootLayout({ children }) {
                 Home
               </Link>
               <Link href="/list" style={layoutStyles.navLink}>
-                Tasks
+                List
               </Link>
             </nav>F
           </div>
